@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="age" type="id" />
+    <item name="nationality" type="id" />
+    <item name="phone_number" type="id" />
+</resources>
